@@ -1,0 +1,155 @@
+body{
+    font-family: 'Poppins', sans-serif;
+font-family: 'Roboto Slab', serif;
+padding: 40px;
+margin: 40px;
+
+}
+#full
+{
+    border-left: 550px solid white ;
+    border-image-slice: 5px;
+    background-position: center;
+    margin: 30px;
+    padding: 0px; 
+    margin-bottom: 5px;
+}
+
+    .color{
+        color: white;
+     background-color: rgb(167, 150, 230); 
+    
+        
+        
+        width:30%;
+        border: 3px solid white;
+       
+        padding: 2%;
+        border-radius: 15px 15px 15px 15px ;
+        padding: 1px;
+        
+    }
+.lol{
+    background-image: url(images/fik.png);
+    background-repeat: no-repeat;
+    background-position: right;
+    background-size: 93%;
+    border-image-width: 70px;
+    margin: 40px;
+}
+.dream{
+    background-image: url(images/biography-bg.png);
+    background-repeat: no-repeat;
+    background-size: 93%;
+    border-image-width: 70px;
+    margin: 40px;
+
+
+
+}
+.experience{
+    background-image: url(img/don.png);
+    background-position: left;
+    background-repeat: no-repeat;
+    
+}
+p{
+    color: brown;
+font-size: 9.5px;
+}
+.ki{
+    color: brown;
+}
+h1{
+    font-size: 50px;
+
+}
+.highlight{
+    color: rgb(219, 109, 151);
+}
+.banner{
+    color: 78px solid green;
+        border: 5px solid white;
+        background-image: url(images/header-bg.png);
+        background-repeat: no-repeat;
+        background-size: 93%;
+        border-image-width: 70px;
+        margin: 40px;
+    
+
+}
+.half-width{
+    width: 40%;
+    float: left;
+    margin-left: 5%;
+    padding-left: 2%;
+}
+.half-width img{
+    width: 100%;
+}
+h2{
+    font-size: 40px;
+}
+    section{
+
+    height: 500px;
+    padding-bottom: 150px;
+}
+.link-button{
+    text-decoration:none;
+    background-color: rgb(167, 150, 230); 
+    color: black;
+    padding: 10px 20px;
+    border-radius: 3px;
+    font-weight: 700px;
+    text-align: center;
+    margin: 40px;
+
+}
+.single-experience{
+    box-shadow: 10px 10px 40px rgb(164, 218, 164);
+    border-radius: 50px;
+    height: 50%;
+    background-color: white;
+}
+#baby{
+    border-left: 5px solid;
+    border-image-slice: 1px;
+}
+footer p{
+    text-align: center;
+    color: rgba(0, 0, 0, 0.514) ;
+    font-size: 13px;
+}
+.gallery{
+background-image: url(images/fik.png);
+background-repeat: no-repeat;
+margin: 50px;
+border: 15px solid white;
+padding: 5px;
+border-radius: 10px;
+background-size: 93%;
+float: left;
+width: 180px;
+}
+.gallery:hover{
+    border: 15px solid white;
+}
+.lucky{
+    text-align: center;
+    background-image: url(images/footer-bg.png);
+    background-position: left;
+    background-repeat: no-repeat;
+    border-image-width: 70px;
+    margin: 40px;
+    color: black;
+}
+
+section{
+height: 500px;
+padding-bottom: 150px;
+}
+#grad{
+        background-image: linear-gradient(rgb(109, 15, 109)purple;
+      }
+
